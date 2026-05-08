@@ -1,11 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Victor%20Foga%C3%A7a&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Desenvolvedor%20Fullstack&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=fogacavm">
-    <img src="https://komarev.com/ghpvc/?username=fogacavm&label=Profile%20views&color=00FFFF&style=flat-square" alt="fogacavm's profile views" />
-  </a>
-</p>
-
 ## 📌 Sobre mim
 Estudante de Ciência da Computação em fase final de formação, com interesse em desenvolvimento de software e aplicações web. Possuo experiência no desenvolvimento Full Stack utilizando Java (Spring Boot) e React, atuando na criação de APIs REST, integração entre Front-end e Back-end e modelagem de bancos de dados SQL. Também tenho experiência em automação de processos com Python e no desenvolvimento de sistemas com operações CRUD e interfaces administrativas, tanto em projetos acadêmicos quanto em ambiente corporativo.
 <p align="left">
