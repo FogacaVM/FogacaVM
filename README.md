@@ -17,22 +17,6 @@ Estudante de Ciência da Computação em fase final de formação, com interesse
         src="https://custom-icon-badges.demolab.com/badge/Repositórios-8A2BE2?style=for-the-badge&logo=repo&logoColor=white"
     />
     </a>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/fogacavm">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fogacavm&cache_seconds=7200&layout=compact&theme=shades-of-purple&border_radius=10" alt="fogacavm's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=fogacavm&theme=shades-of-purple&hide_border=true&cache_seconds=86400" alt="fogacavm's GitHub Streak" width="49%" />
 </p>
 
 ---
@@ -104,8 +88,16 @@ Estudante de Ciência da Computação em fase final de formação, com interesse
 
 <br/>
 <br/>
-<br/>
-<br/>
+
+---
+
+<p align="center">
+  <a href="https://github.com/fogacavm">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fogacavm&cache_seconds=7200&layout=compact&theme=shades-of-purple&border_radius=10" alt="fogacavm's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=fogacavm&theme=shades-of-purple&hide_border=true&cache_seconds=86400" alt="fogacavm's GitHub Streak" width="49%" />
+</p>
+
 
 ---
 
