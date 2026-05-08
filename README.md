@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
-
 ## 📌 Sobre mim
 Estudante de Ciência da Computação em fase final de formação, com interesse em desenvolvimento de software e aplicações web. Possuo experiência no desenvolvimento Full Stack utilizando Java (Spring Boot) e React, atuando na criação de APIs REST, integração entre Front-end e Back-end e modelagem de bancos de dados SQL. Também tenho experiência em automação de processos com Python e no desenvolvimento de sistemas com operações CRUD e interfaces administrativas, tanto em projetos acadêmicos quanto em ambiente corporativo.
 <p align="left">
