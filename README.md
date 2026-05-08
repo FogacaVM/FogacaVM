@@ -1,11 +1,15 @@
-# 🔮 Victor Fogaça
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Victor%20Foga%C3%A7a&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Desenvolvedor%20Fullstack&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-**`Desenvolvedor FullStack`**
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=fogacavm">
+    <img src="https://komarev.com/ghpvc/?username=fogacavm&label=Profile%20views&color=00FFFF&style=flat-square" alt="fogacavm's profile views" />
+  </a>
+</p>
 
-Estudante de Ciência da Computação em fase final de formação, com interesse em desenvolvimentode software e aplicações web. Possuo experiência no desenvolvimento full stack utilizando Java (Spring
-Boot) e React, atuando na criação de APIs REST, integração entre frontend e backend e modelagem debancos de dados SQL. Também tenho experiência em automação de processos com Python e no
-desenvolvimento de sistemas com operações CRUD e interfaces administrativas, tanto em projetos acadêmicosquantoemambiente corporativo
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
+## 📌 Sobre mim
+Estudante de Ciência da Computação em fase final de formação, com interesse em desenvolvimento de software e aplicações web. Possuo experiência no desenvolvimento Full Stack utilizando Java (Spring Boot) e React, atuando na criação de APIs REST, integração entre Front-end e Back-end e modelagem de bancos de dados SQL. Também tenho experiência em automação de processos com Python e no desenvolvimento de sistemas com operações CRUD e interfaces administrativas, tanto em projetos acadêmicos quanto em ambiente corporativo.
 <p align="left">
     <a href="https://www.linkedin.com/in/victorfogaca/">
     <img 
@@ -28,6 +32,15 @@ desenvolvimento de sistemas com operações CRUD e interfaces administrativas, t
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/fogacavm">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fogacavm&cache_seconds=7200&layout=compact&theme=shades-of-purple&border_radius=10" alt="fogacavm's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=fogacavm&theme=shades-of-purple&hide_border=true&cache_seconds=86400" alt="fogacavm's GitHub Streak" width="49%" />
 </p>
 
 ---
@@ -96,27 +109,19 @@ desenvolvimento de sistemas com operações CRUD e interfaces administrativas, t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
+
+<br/>
+<br/>
 <br/>
 <br/>
 
-### 📊 Estatísticas
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FogacaVM&show_icons=true&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FogacaVM&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FogacaVM&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-<br clear="left"/>
+
